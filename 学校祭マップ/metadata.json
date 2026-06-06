@@ -1,0 +1,6 @@
+{
+  "name": "学校祭マップ",
+  "description": "北海道科学大学高校の学校祭マップ。出店の場所やメニューの確認、お気に入り登録、リアルタイム検索、フロア切換がスムーズに行えます。",
+  "requestFramePermissions": ["deviceorientation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
